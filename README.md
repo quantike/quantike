@@ -1,6 +1,6 @@
 ### 🖖 Howdy, I’m @isaac-chasse, but most call me Ike. 
 
-## I'm a Data Engineer, Quant Researcher, and Lifelong Nerd
+## I'm a Data Engineer, Quant Developer, and Lifelong Nerd
 - ✍️ I (occasionally) write on market internals and blockchain research on my [substack](https://ikequant.substack.com/p/ikes-thought-process).
 - 🐍 I've consistently worked with data in Python for eight years (Data engineering, data science, HPC).
 - 🦀 I spend much of my free time building high-volume, reliable trading systems in Rust.
