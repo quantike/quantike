@@ -1,14 +1,20 @@
-### Howdy, I'm @quantike
+### Howdy, I’m Ike.
 
-- 📓 I (occasionally) write on market internals & trading systems on my [substack](https://ikequant.substack.com/p/ikes-thought-process).
-- 🐍 I've consistently worked with data in Python for ten years (data engineering, data science, HPC).
-- 🦀 I spend much of my time building high-volume, reliable trading systems in Rust.
-- ☢️ I studied nuclear physics and my favorite differential equation is (iykyk):
+Some things about me:
+
+- I love to solve challenging problems from first principles.
+- I am fascinated by programming topics like databases, distributed systems, and machine learning.
+- I enjoy using vim and ricing my terminal (see my dotfiles).
+- My background is in physics, nuclear engineering, and high-performance computing.
 
 $$\dfrac{dN(t)}{dt} = -\lambda N(t)$$
 
-- 📫 You can always reach me by email [set up a public email] or [Discord](discordapp.com/users/377251035242299405)
-
+Available for contact here:
+```json
+{
+  "email": "howdy at quantike dot xyz",
+}
+```
 <!---
 isaac-chasse/isaac-chasse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
